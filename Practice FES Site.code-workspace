@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../HTML/Practice FES Site"
+		},
+		{
+			"path": "../HTML/assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Practice FES Site"
+	}
+}
